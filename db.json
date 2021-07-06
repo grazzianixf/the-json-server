@@ -1,0 +1,34 @@
+{
+    "alimentos": [
+      {
+        "id": 1,
+        "nome": "banana"
+      },
+      {
+        "id": 2,
+        "nome": "maçã"
+      },
+      {
+        "nome": "uva",
+        "id": 3
+      },
+      {
+        "nome": "melão",
+        "id": 4
+      }
+    ],
+    "tiposRefeicao": [
+      {
+        "id": 1,
+        "nome": "Café da Manhã"
+      },
+      {
+        "id": 2,
+        "nome": "Almoço"
+      },
+      {
+        "id": 3,
+        "nome": "Jantar"
+      }
+    ]
+  }
